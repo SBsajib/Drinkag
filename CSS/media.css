@@ -1,0 +1,181 @@
+
+@media (max-width:767px){
+
+.container{
+    padding: 0px 20px;
+}
+section{
+  padding: 30px 0px;
+}
+.row{
+  gap: 20px 4%;
+}
+.c_n_gap {
+  gap: 20px 0%;
+}
+.col{
+    max-width: 100%;
+    flex-basis: 100%;
+}
+
+.flex_end_end {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.flex_r{
+  flex-direction: column-reverse;
+}
+
+.col_6_m{
+  flex-basis:48%;
+  max-width: 48%;
+}
+
+
+.background_clip{
+  position: relative !important;
+  top: 0;
+}
+
+.banner{
+  padding: 0px;
+  margin: 0px;
+}
+
+
+.title {
+  color: var(--black-color);
+  font-size: 40px;
+  line-height: 48px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.des_type1 {
+  color: var(--black-color);
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.btn_style1 {
+  font-size: 16px;
+  line-height: 24px;
+  display: block;
+  text-align: center;
+  max-width: 100%;
+}
+
+.review_left {
+  text-align: center;
+}
+
+.review_right .swiper-slide {
+  text-align: center !important;
+}
+.review_slide .rev_text {
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.review_slide .rev_text_b {
+  font-size: 12px;
+  line-height: 26px;
+}
+
+.bg_c_p{
+  background-color: var(--bg-light);
+  padding: 50px 20px;
+}
+
+.des_type2 {
+  font-size: 20px;
+  line-height: 28px;
+  margin-bottom: 15px;
+}
+
+.item_img img {
+   margin-right: 0px; 
+}
+
+.item_text {
+  font-size: 20px;
+}
+
+.cart_box_title {
+  font-size: 32px;
+  line-height: 36px;
+}
+
+.des_type4 {
+  font-size: 18px;
+  line-height: 26px;
+}
+.p_r {
+  padding: 0px 0px 0px 0px;
+}
+
+.slider_section{
+  padding: 50px 0px;
+}
+.gallery_image {
+  height:auto;
+
+}
+
+.check_list {
+  width: 95%;
+}
+
+.box_image {
+  height: 300px;
+}
+
+.image_box_text {
+  font-size: 18px;
+  line-height: 26px;
+  padding: 15px 10px;
+ 
+}
+
+
+.count_box .title_h3 {
+  font-size: 85px;
+  line-height: 90px;
+  text-align: center;
+}
+
+ .count_box .des_type3 {
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+}
+
+
+.image_line{
+  text-align: center;
+}
+
+.r_v{
+  text-align: start;
+}
+
+.video_play {
+
+  padding: 16px 20px;
+}
+
+
+.accordion {
+  font-size: 18px;
+  line-height: 24px;
+}
+
+
+
+
+
+}
